@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Prework Tipper
 //
-//  Created by Akshar Korlepara on 1/6/21.
+//  Created by Thomas Bos on 1/6/21.
 //
 
 import UIKit
