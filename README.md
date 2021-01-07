@@ -30,6 +30,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/a/pWr9uiI' title='Prework Tipper' width='' alt='Video Walkthrough' />
+![Gif walkthrough](https://imgur.com/a/pWr9uiI)
 
 GIF created with QuickTime.
 
