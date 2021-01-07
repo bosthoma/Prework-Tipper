@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/pWr9uiI.gif' title='Prework Tipper' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/pWr9uiI' title='Prework Tipper' width='' alt='Video Walkthrough' />
 
 GIF created with QuickTime.
 
