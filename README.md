@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Gif walkthrough](https://imgur.com/a/pWr9uiI)
+![Gif walkthrough](https://imgur.com/a/pWr9uiI.gif)
 
 GIF created with QuickTime.
 
