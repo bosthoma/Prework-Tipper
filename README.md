@@ -30,6 +30,12 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 ![Gif walkthrough](https://imgur.com/a/pWr9uiI.gif)
+<img src="https://imgur.com/a/pWr9uiI.gif"/>
+
+!(image)[https://imgur.com/a/pWr9uiI.gif]
+<img src="https://imgur.com/a/pWr9uiI"/>
+
+!(image)[https://imgur.com/a/pWr9uiI]
 
 GIF created with QuickTime.
 
