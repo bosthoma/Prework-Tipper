@@ -35,7 +35,7 @@ GIF created with QuickTime.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Interesting simple project.
 
 ## License
 
